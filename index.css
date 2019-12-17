@@ -1,0 +1,149 @@
+body {
+  margin: 0px;
+}
+.a-6 {
+  background-color: #ffc700 !important;
+  margin:30px 0px 15px;
+  height: 3px;
+  width: 769.109px;
+}
+.a-4 {
+  font-size: 39px;
+  line-height: .8;
+  font-weight: 400;
+  text-align: left;
+}
+.a-5 {
+  font-size: 72px;
+  display: inline-block;
+  font-family: 'Futura PT W01 Demi';
+  line-height: .9;
+  margin-top: 12px;
+  text-align: left;
+  font-weight: 540;
+}
+.a-7 {
+  font-size: 24px;
+  font-family: 'Futura PT W01 Light';
+  letter-spacing: 1px;
+  line-height: 1;
+  margin: 0 0 30px;
+  font-weight: 400;
+}
+.a-3 {
+  position: absolute;
+  left: 160px;
+  top: 190px;
+  color: #fff;
+}
+.a-2 {
+  background: url(*/arm-homepage-hero);
+}
+a {
+  text-decoration:none;
+}
+.a-9 svg {
+  width: 131.5px;
+  height: 40px;
+  position: absolute;
+  top: 60px;
+  left: 160px;
+}
+.b{
+  background-color: #fff;
+  width: 90px;
+  height: 790px;
+  box-shadow: 0px 0.1px 10px 0.2px rgba(0,0,5,0.9);
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  color: #6f787c;
+  font-size: 12px;
+}
+.a-8 {
+  border-color: #ffc700;
+  border-style: solid;
+  border-width: 3px;
+  color: #333e48;
+  border-radius: 40px;
+  padding: 10px 50px;
+  width: 110.5px;
+  height: 20px;
+  background-color: #ffc700;
+  font-size: 18px;
+  text-align: center;
+}
+a{
+  color: #333e48;
+}
+.b-1 svg{
+  width: 55px;
+  height: 16.0px;
+  position: absolute;
+  top: 40px;
+  left: 15px;
+}
+.b-2 img {
+  position: absolute;
+  top: 87px;
+  left: 29px;
+}
+.b-2 {
+  text-align: center;
+  margin-top: 120px;
+}
+.b-3 img {
+  position: absolute;
+  top: 157px;
+  left: 33px;
+}
+.b-3 {
+  text-align: center;
+  margin-top: 55px;
+}
+.b-4 img {
+  position: absolute;
+  top: 229px;
+  left: 33px;
+}
+.b-4 {
+  text-align: center;
+  margin-top: 55px;
+}
+.b-5 img {
+  position: absolute;
+  top: 300px;
+  left: 33px;
+}
+.b-5 {
+  text-align: center;
+  margin-top: 55px;
+}
+.b-6 img {
+  position: absolute;
+  top: 389px;
+  left: 32px;
+}
+.b-6 {
+  text-align: center;
+  margin-top: 55px;
+}
+.b-7 img {
+  position: absolute;
+  top: 460px;
+  left: 30px;
+}
+.b-7 {
+  text-align: center;
+  margin-top: 55px;
+}
+
+
+
+
+
+
+
+
+
+
